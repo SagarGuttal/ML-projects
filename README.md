@@ -1,1 +1,1 @@
-# ML-projectd
+# ML-projects
